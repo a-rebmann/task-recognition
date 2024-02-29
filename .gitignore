@@ -1,0 +1,17 @@
+venv/
+venvn/
+env/
+.idea/
+__pycache__/
+data/*.xes
+data/*.csv
+data/*.pkl
+output/*.pkl
+output/*.xes
+output/*.txt
+output/*_1*.csv
+output/*.xlsx
+json/*
+.DS_Store
+*task_recognizer*
+notebooks/.ipynb_checkpoints/
