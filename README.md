@@ -5,7 +5,7 @@ written by <a href="mailto:rebmann@uni-mannheim.de">Adrian Rebmann</a><br />
 </sub>
 
 ## About
-This repository contains the implementation, data, evaluation scripts, and results as described in the manuscript <i>ARecognizing Task-Level Events from User Interaction Data</i> by A. Rebmann and H. van der Aa, submitted to <i>Information Systems</i>.
+This repository contains the implementation, data, evaluation scripts, and results as described in the manuscript <i>Recognizing Task-Level Events from User Interaction Data</i> by A. Rebmann and H. van der Aa, submitted to <i>Information Systems</i>.
 
 ## Setup and Usage
 
