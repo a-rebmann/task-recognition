@@ -1,4 +1,4 @@
-# Automated Task Recognition from User Interaction Data
+# Recognizing Task-Level Events from User Interaction Data
 
 <sub>
 written by <a href="mailto:rebmann@uni-mannheim.de">Adrian Rebmann</a><br />
